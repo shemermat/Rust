@@ -20,7 +20,7 @@
             "type": "lldb",
             "request": "launch",
             "name": "lldb",
-            "program":  "${workspaceFolder}/projects/hello_world/Hello_World/src/main.exe",
+            "program":  "${workspaceFolder}/projects/hello_cargo/src/main.exe",
             "args":  [],
             "cwd": "${workspaceFolder}"
         }
