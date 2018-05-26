@@ -1,0 +1,6 @@
+[package]
+name = "chapter3_assignments"
+version = "0.1.0"
+authors = ["Matan Shemer <shemermat@gmail.com>"]
+
+[dependencies]
