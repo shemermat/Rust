@@ -1,0 +1,14 @@
+C:\Users\sheme\git\Rust\projects\concurrent_mandelbrot\target\release\deps\libpng-15545b794d4e3084.rlib: C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\lib.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\chunk.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\crc.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\mod.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\stream.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\encoder.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\filter.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\traits.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\common.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\utils.rs
+
+C:\Users\sheme\git\Rust\projects\concurrent_mandelbrot\target\release\deps\png-15545b794d4e3084.d: C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\lib.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\chunk.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\crc.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\mod.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\stream.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\encoder.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\filter.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\traits.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\common.rs C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\utils.rs
+
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\lib.rs:
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\chunk.rs:
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\crc.rs:
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\mod.rs:
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\stream.rs:
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\encoder.rs:
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\filter.rs:
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\traits.rs:
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\common.rs:
+C:\Users\sheme\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\utils.rs:
